@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de Ropa Usada</title>
+    <!-- Agrega tus enlaces a hojas de estilo y scripts aquí -->
+</head>
+<body>
+    <header>
+        <h1>Venta de Ropa Usada</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Ropa Recomendada</a></li>
+                <li><a href="#">Categorías</a></li>
+                <li><a href="#">Crear Cuenta</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="ropa-recomendada">
+        <h2>Ropa Usada Recomendada</h2>
+        <!-- Aquí puedes mostrar las prendas recomendadas -->
+    </section>
+    
+    <section id="categorias">
+        <h2>Categorías</h2>
+        <ul>
+            <li><a href="#">Camisetas</a></li>
+            <li><a href="#">Pantalones</a></li>
+            <li><a href="#">Vestidos</a></li>
+            <!-- Agrega más categorías aquí -->
+        </ul>
+    </section>
+    
+    <section id="lista-ropa">
+        <h2>Ropa Usada a la Venta</h2>
+        <!-- Aquí puedes mostrar la lista de prendas a la venta en función de la categoría seleccionada -->
+    </section>
+    
+    <section id="crear-cuenta">
+        <h2>Crear Cuenta</h2>
+        <!-- Aquí puedes agregar un formulario para que los usuarios creen sus cuentas -->
+    </section>
+    
+    <section id="publicar-ropa">
+        <h2>Publicar Ropa</h2>
+        <!-- Aquí puedes agregar un formulario para que los usuarios publiquen sus prendas con especificaciones -->
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Venta de Ropa Usada</p>
+    </footer>
+</body>
+</html>
